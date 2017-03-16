@@ -1,0 +1,75 @@
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.csprojResolveAssemblyReference.cache
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MultiSnake.exe
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MultiSnake.pdb
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.exe
+D:\Luca Stamos\Mono Projekt\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.pdb
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.exe
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.pdb
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MultiSnake.exe
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MultiSnake.pdb
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\R102\Desktop\Mono Projekt\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.csprojResolveAssemblyReference.cache
+D:\Luca Stamos\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.exe
+D:\Luca Stamos\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.pdb
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MultiSnake.exe
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MultiSnake.pdb
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Luca Stamos\MultiSnake\MultiSnake\obj\x86\Debug\MultiSnake.csprojResolveAssemblyReference.cache
